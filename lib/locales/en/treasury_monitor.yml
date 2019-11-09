@@ -1,0 +1,9 @@
+en:
+  faker:
+    treasury_monitor:
+      spb_message:
+        kind: ['STR0007', 'STR0008', 'STR0008R1']
+      category:
+        name: ['Liquidação', 'Pagamento', 'Recebimento']
+      sub_category:
+        name: ['Pagamento', 'Recebimento']
