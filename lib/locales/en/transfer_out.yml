@@ -1,0 +1,6 @@
+en:
+  faker:
+    transfer_out:
+      message: ['STR0007', 'STR0008', 'STR0008R1']
+      category: ['Liquidação', 'Pagamento', 'Recebimento']
+      sub_category: ['Pagamento', 'Recebimento']
